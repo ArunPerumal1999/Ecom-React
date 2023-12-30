@@ -24,7 +24,7 @@ const Cart = () => {
         {totalamount >=0 ?(
       <div className='checkout'>
         <h3 style={{textAlign:'center'}}><b>Total Amount: RS {totalamount} </b></h3>
-        <button onClick={()=> navigate("/shop")}>Continue Shopping</button>
+        <button onClick={()=> navigate("/")}>Continue Shopping</button>
         <button className='by'>Buy All</button>
       </div>
       ):(
