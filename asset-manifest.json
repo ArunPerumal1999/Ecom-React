@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ReactEcom/static/css/main.d3448437.css",
+    "main.js": "/ReactEcom/static/js/main.d1aa4ff2.js",
+    "static/js/787.caaea2da.chunk.js": "/ReactEcom/static/js/787.caaea2da.chunk.js",
+    "static/media/nothing.webp": "/ReactEcom/static/media/nothing.b1d347ef65042a163da6.webp",
+    "static/media/vivo.webp": "/ReactEcom/static/media/vivo.5e513a6e09dec5965017.webp",
+    "static/media/realme.webp": "/ReactEcom/static/media/realme.78f275caa3b89efc2c36.webp",
+    "static/media/sam.webp": "/ReactEcom/static/media/sam.107e0db7fb0011c953ab.webp",
+    "static/media/poco.webp": "/ReactEcom/static/media/poco.57c64147aa0db383ba3a.webp",
+    "static/media/pixel.webp": "/ReactEcom/static/media/pixel.29c57a91b5af466e9161.webp",
+    "static/media/oppo.webp": "/ReactEcom/static/media/oppo.592ea8db253ddbd5cde0.webp",
+    "static/media/oneplus.webp": "/ReactEcom/static/media/oneplus.c734386996641d66e185.webp",
+    "static/media/infinix.webp": "/ReactEcom/static/media/infinix.550439ec45687c86c791.webp",
+    "static/media/redmi.webp": "/ReactEcom/static/media/redmi.669f4c6aff0a784b0503.webp",
+    "static/media/moto.webp": "/ReactEcom/static/media/moto.7f017ad960f8162f5885.webp",
+    "static/media/iphone1.webp": "/ReactEcom/static/media/iphone1.60bd7bc1aaf778078669.webp",
+    "index.html": "/ReactEcom/index.html",
+    "main.d3448437.css.map": "/ReactEcom/static/css/main.d3448437.css.map",
+    "main.d1aa4ff2.js.map": "/ReactEcom/static/js/main.d1aa4ff2.js.map",
+    "787.caaea2da.chunk.js.map": "/ReactEcom/static/js/787.caaea2da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3448437.css",
+    "static/js/main.d1aa4ff2.js"
+  ]
+}
