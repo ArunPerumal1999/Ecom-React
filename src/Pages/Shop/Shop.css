@@ -13,15 +13,13 @@ background-color: rgba(248, 245, 242, 0.979);
 .shoptitle{
     margin-top: 50px;
     text-align: center;
-    font-size: 20px;
-   
-    h1 {
-        font-size: 52px;
-        background: -webkit-linear-gradient(rgb(201, 73, 240), rgb(246, 48, 48));
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-      }
+    font-size: 52px;
+    background: -webkit-linear-gradient(rgb(201, 73, 240), rgb(246, 48, 48));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
+    
+
 .products{
     width: 100%;
     height:auto;

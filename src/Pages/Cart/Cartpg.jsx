@@ -15,11 +15,11 @@ const Cart = () => {
         <h1>-- Your Cart Items --</h1>
       </div>
       <div className='cartitem'>
-        {PRODUCTS.map((product)=>{
+        { PRODUCTS.map((product)=>{
             if(cartitems[product.id]){
                 return <Carttem data={product}/>
             }
-        })}
+        })};
       </div>
         {totalamount >=0 ?(
       <div className='checkout'>

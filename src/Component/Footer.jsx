@@ -18,9 +18,9 @@ const Footer̥ = () => {
         </ul>
 <br></br>
     <div id="copy"><h3>Copyrights@PGA</h3><br></br>
-    <a href='' className='icoe'><FaFacebook /></a>
-    <a  className='icoe'><Link to="www.linkedin.com/in/arun-kumar-06104821a"><FaLinkedin /></Link></a>
-    <a  href=" " className='icoe'><FaGithub /></a>
+    <a href='www.linkedin.com/in/arun-kumar-06104821a' className='icoe'><FaFacebook /></a>
+    <a  href="www.linkedin.com/in/arun-kumar-06104821a" className='icoe'> <FaLinkedin/></a>
+    <a  href="www.linkedin.com/in/arun-kumar-06104821a " className='icoe'><FaGithub /></a>
     
     </div></div>
     </div>        

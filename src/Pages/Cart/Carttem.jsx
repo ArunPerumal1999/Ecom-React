@@ -8,7 +8,7 @@ import { Shopcontext } from '../../Context/Shopcontext'
 
     return (
     <div className='cartitm'>
-        <img src={productImage}/>
+        <img src={productImage} alt='img'/>
         <div className='cartdes'>
             <p><b>{productName}</b></p>
             <p>Rs:{price}</p>
