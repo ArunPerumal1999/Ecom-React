@@ -7,7 +7,7 @@ import { FaGithub } from "react-icons/fa";
 
 const Footer̥ = () => {
   return (
-    <div>
+    <div class="fbar">
 <div className='footer'>
     <div>
         <ul className='footerlist'>
