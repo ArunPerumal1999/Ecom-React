@@ -9,8 +9,8 @@ import { GrContact } from "react-icons/gr";
 const Navbar = () => {
   return (
     <>
-    <div>
-    <div>
+    <div class="tnav">
+    
         <nav id="navbar">
             <ul id="navlist">
 
@@ -21,7 +21,7 @@ const Navbar = () => {
                 <li><Link className="nvtext" to="/Carts"> Cart<PiShoppingCartBold /></Link></li>
             </ul>
         </nav>
-    </div>
+    
     </div>
     
     </>
